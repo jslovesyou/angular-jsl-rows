@@ -2,5 +2,5 @@
 
 angular.module('angularRowsApp', [
 	'angularRowsApp.controllers',
-  'jslRows'
+  'jsl.rows'
 ]);

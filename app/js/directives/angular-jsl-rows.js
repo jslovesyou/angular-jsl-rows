@@ -1,4 +1,4 @@
-angular.module('jslRows', [])
+angular.module('jsl.rows', [])
 	.directive('jslRows', function () {
 		'use strict';
 		return {

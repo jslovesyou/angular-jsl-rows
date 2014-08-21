@@ -1,5 +1,5 @@
 {
-  "name": "jsl-rows",
+  "name": "angular-jsl-rows",
   "version": "0.0.0",
   "ignore" : [
     ".jshintrc",
@@ -14,7 +14,7 @@
     "gulp/**",
     "**/*.txt"
   ],
-  "main" : "app/js/directives/jslovesyou-rows.js",
+  "main" : "app/js/directives/angular-jsl-rows.js",
   "dependencies": {
     "angular": "1.2.x"
   },
